@@ -1,8 +1,8 @@
-train_coarse: Training coarse segmentation network
+train_coarse.py: Training coarse segmentation network
 
-train_fine: Training fine segmentation network
+train_fine.py: Training fine segmentation network
 
-test: Infer a case
+test_example.py: Infer a case
 
 
 
